@@ -6,6 +6,9 @@
 利用最新版TesseractOCR自动将电脑截图转换为 Markdown 格式文本的工具，方便批量导入大量截图至Obsidian等MD笔记文件夹。支持多线程加速和图像预处理优化。
 
 *部署用时：顺利的话，预计15分钟*
+## 效果演示
+
+![gif](https://github.com/user-attachments/assets/61f719b6-d23a-4cca-972e-d58ea9572437)
 
 ## 开发原因
 
