@@ -1,0 +1,2 @@
+pytesseract==0.3.10  # Tesseract OCR 的 Python 接口
+Pillow==10.0.0       # 图像处理库（用于截图读取和预处理）
